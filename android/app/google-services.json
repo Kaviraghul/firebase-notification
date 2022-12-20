@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632439395116",
+    "project_id": "sports-notifications",
+    "storage_bucket": "sports-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632439395116:android:f0ec41427ea7e7f17ed289",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632439395116-o6n51t978hg86f29g9e9gk251df5r52m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_notification",
+            "certificate_hash": "7a1b0c753b13db973fd1fcfca97cd3dcb91e7df3"
+          }
+        },
+        {
+          "client_id": "632439395116-ersv7ojm0lv50b45k66bff1imi6i5tgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpwPLigVIUJP1dLM1qmPR7dti_qCeTfOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632439395116-ersv7ojm0lv50b45k66bff1imi6i5tgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
